@@ -71,7 +71,7 @@ timeout 5
 goto StartServer
 ```
 > [!IMPORTANT]  
-> Make sure you **update the `Server_file` variable** in the script to point to your actual JAR file.  
+> Make sure you **update the `***Your Jar file***` variable** in the script to point to your actual JAR file.  
 ---
 ## 🐧 Linux Script (start.sh)
 ```ruby
@@ -135,7 +135,7 @@ do
 done
 ```
 > [!IMPORTANT]  
-> Make sure you **update the `Server_file` variable** in the script to point to your actual JAR file.  
+> Make sure you **update the `***Your Jar file***` variable** in the script to point to your actual JAR file.  
 ---
 
 > [!WARNING]
